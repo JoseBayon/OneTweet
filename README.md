@@ -1,2 +1,2 @@
-# OneTweet
-Graphic Typographic Design for the subject &lt;em>Fundamentals of Web Design>
+ OneTweet
+Typographic Design for the subject Fundamentals of Web Design
