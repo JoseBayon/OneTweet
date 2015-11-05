@@ -8,15 +8,15 @@ OneTweet, second project in the subject Fundamentals of Web Design, consisted in
 
 * ####Compose a poster from a Tweet by:  
 
-* 		Text-only!!
+ 		Text-only!!
 
-* 		1 font family
+ 		1 font family
 
-* 		3 colours max
+ 		3 colours max
 
-* 		Square format
+ 		Square format
 
-* 		Vector file
+ 		Vector file
 
 
 *	####Produce Several Variations
